@@ -16,9 +16,8 @@ class _HomePageState extends State<HomePage> {
 
 // list of todoList
   List todoList = [
-    ["Practice Flutter", false],
-    ["Practice Dart", false],
-    ["Practice PowerBI", false],
+    ["Work Hard", false],
+    ["WORK SMART", false],
   ];
 
 // changeBoxChange

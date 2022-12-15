@@ -25,7 +25,7 @@ class DialogBox extends StatelessWidget {
             // inputText
             TextField(
               controller: controller,
-              decoration: InputDecoration(
+              decoration: const InputDecoration(
                   border: OutlineInputBorder(), hintText: "Task Name"),
             ),
             // button -> save    and cancel

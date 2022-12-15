@@ -8,12 +8,13 @@ class TodoTile extends StatelessWidget {
   Function(bool?)? onChanged;
   Function(BuildContext?)? deleteFunction;
 
-  TodoTile(
-      {super.key,
-      required this.taskName,
-      required this.taskCompletion,
-      required this.onChanged,
-      required this.deleteFunction});
+  TodoTile({
+    super.key,
+    required this.taskName,
+    required this.taskCompletion,
+    required this.onChanged,
+    required this.deleteFunction,
+  });
 
   @override
   Widget build(BuildContext context) {
