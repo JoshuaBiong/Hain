@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+# Feature
+-add amount
+-add description of the amount
+-subtract the expenses from the given amount 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
